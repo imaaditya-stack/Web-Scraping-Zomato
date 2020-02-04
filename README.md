@@ -8,4 +8,10 @@ I have used BeautifulSoup Package for the task.
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching and modifying the parse tree. It commonly saves programmers hours or days of work.
 
 ## Result
-Scraped data of top restuarants in my city. Total 221 Observations collected
+Scraped data of top restuarants in my city. Total 221 Observations collected.
+The dataset contains following collected features : 
+1. Name of the resturant
+2. Ratings
+3. Votes
+4. Cuisines
+5. Cost For Two
