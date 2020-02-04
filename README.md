@@ -15,3 +15,5 @@ The dataset contains following collected features :
 3. Votes
 4. Cuisines
 5. Cost For Two
+
+I have also done Exploratory Data Analysis in a seperate Notebook.
