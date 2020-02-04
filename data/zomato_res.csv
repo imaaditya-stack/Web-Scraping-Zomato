@@ -1,0 +1,222 @@
+Restaurant,Cuisines,Ratings,Votes,Cost For Two
+McDonald's,"Burger, Fast Food",3.9,347,400
+Natural Ice Cream,"Ice Cream, Desserts",4.0,93,300
+Jumboking,"Burger, Fast Food",4.2,45,150
+Jai Mata Di Fast Food,"Chinese, Fast Food",3.4,16,200
+Ming Yang,"Chinese, Thai",3.8,126,950
+Domino's Pizza,"Pizza, Fast Food",3.8,108,400
+Amar Fast Food & Restaurant,"Street Food, Chinese, North Indian, Biryani, Fast Food",3.7,346,600
+Box Office Cafe Bar and Bistro,"North Indian, Chinese, Continental, Fast Food",3.1,4,700
+Hunger Ground,"North Indian, Chinese",3.7,57,350
+Diet With Delight,"Chinese, Fast Food, Street Food, Healthy Food, Desserts, Beverages",3.8,101,350
+Foodies Family,"North Indian, Maharashtrian",3.6,51,500
+Hotel Ballaleshwar,"Maharashtrian, Street Food",3.1,0,200
+Hardasmal,"North Indian, South Indian",3.6,137,450
+Roti N,"Fast Food, Chinese, North Indian",3.6,393,600
+The Belgian Waffle Co.,"Desserts, Beverages",3.8,163,300
+Jimmy Food Corner,"Chinese, Italian",3.5,33,400
+Ramesh Sweets And Cakes,"Mithai, Bakery",3.1,9,200
+Ribbons & Balloons,"Bakery, Desserts, Fast Food",3.3,21,250
+Shiv Sagar,"South Indian, North Indian, Chinese, Fast Food, Street Food",3.1,206,750
+Cafe Coffee Day,"Cafe, Fast Food, Desserts, Beverages, Sandwich",3.7,14,600
+Delicia Fine Dine,"North Indian, Chinese, Fast Food",3.7,103,650
+Bismillah Juice,"Juices, Beverages",3.6,63,400
+Amritsari Naan,North Indian,3.5,71,300
+Aao Kabhi Haveli Pe,"Cafe, Fast Food, Coffee",3.1,32,500
+Datta Prasad Vada Pav Centre,Street Food,3.6,25,150
+Hungry Panda,"North Indian, Chinese",3.6,46,300
+Hotel Super Bowl,Chinese,3.1,11,300
+Kulfi Village,"Ice Cream, Beverages, Fast Food",0.0,0,500
+K-Rachna,"North Indian, Chinese, Fast Food",3.6,91,850
+Cafe Creme,"Desserts, Beverages, Fast Food",3.3,7,450
+Cousins Nook,"Chinese, Fast Food",3.1,17,450
+SK Chinese Food Point,Chinese,0.0,0,300
+Hotel Samudra,"Chinese, North Indian",3.3,27,350
+Kitchen King,"North Indian, Chinese",0.0,0,400
+Vicky Momo's Hut,Momos,3.4,56,200
+Memsaab Restaurant & Bar,"North Indian, Chinese, Bar Food",2.9,12,600
+Jai Shankar Nx Snacks & Food Corner,"South Indian, Chinese, Fast Food, North Indian",3.2,11,200
+Jayam Dosa Corner,South Indian,3.4,50,350
+Chahapaani,"Maharashtrian, Fast Food, Beverages",0.0,0,200
+The Bombay Fries,"Fast Food, Beverages",3.7,67,300
+Sharma Sandwich & Pizza Corner,"Sandwich, Pizza",3.4,18,200
+Sseven Eleven Fine Dine,"North Indian, Chinese, Continental",3.3,13,700
+Guru Fast Food,"Fast Food, North Indian",0.0,0,250
+Hotel Metro Bar & Restaurant,North Indian,3.3,17,500
+Hotel AFK Grill N Chill,"Chinese, Kebab",2.9,5,350
+Bombay Pani Puri Wala,Street Food,3.2,8,150
+Krunk,"North Indian, Chinese, Continental, Fast Food",3.9,191,1000
+Pariwar Lunch Home Ujwal Mahila Grihudyog,"Chinese, Maharashtrian, North Indian",3.0,4,300
+The Fuel,"Lebanese, Beverages",0.0,0,250
+Baba Snacks Corner,"Fast Food, Rolls",3.7,42,250
+Kachhomal Sweets,Mithai,3.6,57,200
+Royal Fine Dine,"North Indian, Chinese, South Indian, Fast Food, Desserts",3.2,76,400
+Baskin Robbins,"Ice Cream, Desserts, Beverages",3.7,61,200
+Rude Lounge,"North Indian, Italian, Chinese, Continental, Bar Food",3.5,129,1600
+Royal Cakes,"Bakery, Desserts",0.0,0,400
+Diamond Hotel,"North Indian, Chinese, South Indian",0.0,0,500
+Maitri Katta,"Maharashtrian, North Indian",2.9,6,300
+Vaishnu Hotel,"North Indian, Mughlai, Chinese",3.4,40,500
+Sindhudurg Kinara Family Restaurant & Bar,"North Indian, Chinese, Malwani, Biryani, Fast Food, Thai, Continental",3.5,323,600
+Hotel Palace Family Restaurant and Bar,"North Indian, Chinese",3.7,69,1000
+Hotel Shanti Sagar,"North Indian, Chinese, Street Food",3.4,105,600
+China Town Chinese Corner,Chinese,0.0,0,200
+Backbenchers Cafe,"Fast Food, Beverages",2.9,12,300
+Dragon Shawarma,Lebanese,3.0,6,300
+Batman Night Kitchen,"Pizza, Fast Food, Chinese",3.6,89,350
+Street Klub,Fast Food,3.2,97,350
+Brewville Cafe,Cafe,3.7,158,900
+Taste of Punjab,North Indian,3.0,4,1500
+Hardasmal Restaurant,North Indian,3.4,38,350
+Kumar Mutton House,North Indian,3.2,13,500
+Burger Club,"Fast Food, Burger, Indian, Chinese",3.4,60,250
+Guru Da Dhaba,"North Indian, Chinese, Malwani, Hyderabadi, Kebab",0.0,0,800
+Kailash Parbat,"North Indian, South Indian, Chinese, Italian, Street Food, Beverages",3.3,12,1000
+O-Cakes,"Bakery, Desserts",3.4,24,250
+Highness,"Fast Food, Desserts, Ice Cream",3.2,35,450
+Jai Shanker Ice Cream & Snacks,"Chinese, North Indian, Biryani, Fast Food, Ice Cream",3.6,15,200
+A1 Pani Puri House,Street Food,3.6,28,100
+Sips Bites,Fast Food,3.2,12,300
+Poo Lounge - The Club,"Continental, North Indian, Chinese",3.3,52,1500
+Hotel Abhishek,"North Indian, Chinese, Maharashtrian",0.0,0,600
+Morya Veg & Non-Veg Restaurant,Chinese,3.2,15,200
+Hari Om Juice Center,"Juices, Beverages",3.2,4,300
+Jai Ambika Pan Bhandar,"Paan, Beverages",3.2,10,50
+Annapurna Classic Restaurant,"Fast Food, South Indian, Chinese, North Indian",0.0,0,700
+Asha Ice Cream And Falooda,Ice Cream,3.2,9,250
+Shree Ganesh Chinese Corner,Chinese,0.0,0,200
+Goli Vada Pav No.1,Street Food,2.6,22,150
+Brownie Point,"Bakery, Desserts",3.5,33,400
+Sai Family Restaurant & Bar,"Chinese, North Indian",3.0,4,600
+Exotic Flavours,"Continental, North Indian, Italian, Asian",0.0,0,500
+Sai Fast Food & Family Restaurant,"Continental, Chinese, North Indian, South Indian",3.1,13,300
+Relish,"Fast Food, Chinese, North Indian",3.7,241,700
+Brestro Inn,"Fast Food, Desserts",3.0,5,600
+Swanand Veg,Street Food,2.9,5,300
+Swami Sandwich,Fast Food,0.0,0,250
+Creambell,"Desserts, Ice Cream",0.0,0,200
+The Brooklyn Creamery,Ice Cream,0.0,0,150
+Elixir Bistro Cafe,"Healthy Food, Fast Food",0.0,0,100
+Be Hungry,Maharashtrian,0.0,0,300
+Apsara Ice Creams,"Ice Cream, Desserts",3.6,19,200
+Krishna Glory Restaurant And Ice Cream Corner,"Chinese, North Indian",0.0,0,300
+Black Town Chinese And Fast Food,"Chinese, North Indian",2.9,7,300
+Monginis,"Bakery, Fast Food",2.7,18,300
+Shere Punjab,"North Indian, Chinese",3.1,5,400
+Garib Nawaz Hotel And Caterers,North Indian,0.0,0,200
+Celebrations Hotel,"North Indian, Chinese",3.4,24,700
+The Bake Shop,"Bakery, Desserts",3.5,47,300
+Chow Ming,Chinese,0.0,0,200
+JFC Jahagirdar Chinese,Chinese,0.0,0,300
+Dhaba Swad,"North Indian, Chinese, Biryani",2.6,16,350
+Hotel Mayur,"North Indian, Chinese",3.7,107,800
+Souffle,Bakery,0.0,0,350
+Ansh Palace,"North Indian, Chinese, Seafood",3.4,21,750
+Bollywood Chinese Restaurant,"Chinese, North Indian",0.0,0,150
+Krazy Eggs & Fries,"Fast Food, North Indian",3.7,82,400
+Tasty Cafe,"Fast Food, Street Food",0.0,0,200
+Casa De Tandoor,North Indian,3.0,8,350
+The London Shakes,"Beverages, Mexican, Fast Food, Italian, Desserts",2.6,49,600
+Oyalo,Italian,3.1,14,200
+Hotel Ambrosia,North Indian,3.4,32,700
+Food Studio,Fast Food,3.6,62,400
+Coffee Dates,"Burger, Pizza, Coffee",0.0,0,500
+Urban Desi,"North Indian, Chinese, Fast Food",0.0,0,300
+Tandoor's Corner,"Fast Food, North Indian, Biryani, Chinese, Pizza, Beverages",3.0,5,500
+Crazy Eggs,Fast Food,3.4,28,250
+Krazy Bites,"Chinese, Fast Food, Beverages",0.0,0,350
+Tibbs Frankie,Fast Food,3.2,10,300
+The Hunger Joint,Fast Food,3.5,60,150
+Hotel Ashoka Restaurant And Bar,"North Indian, Chinese, Mughlai",0.0,0,600
+The Muffin Man,Bakery,3.3,21,300
+Twinkling Cakes,Bakery,0.0,0,200
+Jai Balaji Nasta House,Street Food,0.0,0,100
+Guru Fast Food,"Fast Food, Street Food",0.0,0,200
+Hotel Falcon,"Chinese, North Indian, Mughlai, South Indian",3.5,40,900
+Annu Bakes,Bakery,0.0,0,250
+Hotel Pinto Park,"Chinese, North Indian",3.6,118,800
+Regency,"North Indian, Seafood, Chinese, Malwani",3.5,57,1000
+Bismillah Juice Centre Thick Shakes & Ice Cream,"Beverages, Juices, Ice Cream",0.0,0,500
+1975 The Chicken Company,Fast Food,0.0,0,300
+Gunchiiis Cakes & Desserts Studio,Bakery,3.5,53,350
+Brewville Cafe,"Fast Food, Pizza, Burger, Coffee, Sandwich",3.3,15,400
+Spicy Fusion,"North Indian, Chinese",0.0,0,1000
+Cheers Family Restaurant And Bar,"North Indian, Malwani, Chinese",0.0,0,750
+Jai Mata Di Butter Papdi Corner,Street Food,3.5,42,100
+Bashamal Nasta House,Sindhi,0.0,0,100
+Narayan Food Court,Chinese,0.0,0,300
+Jai Shankar Veg Restaurant,"South Indian, North Indian",3.2,11,500
+Shree Shyam Sunder,Mithai,3.1,9,300
+Hotel Praveen International,"North Indian, Chinese",2.9,20,1200
+Sai Fast Food,"Fast Food, Chinese, North Indian",3.0,15,500
+Shankar Dalwala's - New Delhi Nasta House,Sindhi,0.0,0,150
+Mangalmurti Chinese Corner,Chinese,2.5,25,350
+Vintage Kaka Ka Dhaba,"North Indian, Chinese",3.1,16,500
+Noodle In Box,Chinese,3.5,42,500
+KSP Kitchen Spices Restaurant,"South Indian, North Indian, Street Food",0.0,0,300
+Aashirwad Hotel,"North Indian, Chinese",0.0,0,400
+Annus Snacks Shelter,North Indian,0.0,0,200
+Shyam Sunder Sweets,Mithai,0.0,0,250
+New Bangalore Iyengar Bakery,Fast Food,0.0,0,150
+Sachin's Family Restaurant,"North Indian, South Indian, Biryani, Chinese",0.0,0,800
+Bollywood Cafe And Juice Bar,"Cafe, Fast Food",0.0,0,450
+New Neelam,"Chinese, North Indian",3.2,13,600
+Vaishnu Hotel,"Chinese, North Indian",3.1,6,500
+Good Time Cafe,"Fast Food, Juices",0.0,0,300
+Maharaja Fresh & Tasty Food,"Chinese, North Indian",0.0,0,400
+Kishan Pav Bhaji,Maharashtrian,0.0,0,200
+Silly Mittens,Desserts,0.0,0,400
+Vasudev Chaat Corner,Street Food,0.0,0,200
+Hari Om Sweets & Dry Fruits The Cake Shop,"Mithai, Bakery, Desserts",0.0,0,250
+Jewel's Resto Bar,"Bar Food, North Indian, Chinese, Continental",0.0,0,1500
+Gurudev Hotel Family Restaurant,"North Indian, Fast Food",3.1,5,400
+The Cake Ferry,"Bakery, Desserts",0.0,0,300
+Balaji Fast Food,Fast Food,3.3,9,200
+Dhaba Cafe,"North Indian, Street Food, Fast Food",3.5,131,500
+Hotel Abbu's Restaurant & Bar,"North Indian, Chinese, Seafood",3.3,18,800
+Jashan Bar & Restaurant,"North Indian, Seafood, Biryani",3.2,13,500
+Cafe Nine,"Fast Food, Beverages",2.9,11,350
+Royal Food Divine,"Fast Food, Street Food, Beverages, Desserts",3.4,52,300
+Ravi Chinese,Chinese,2.9,5,350
+Hotel Jai Kamal,Fast Food,3.2,18,400
+The Food Lab,"Fast Food, Healthy Food, Chinese",3.2,10,600
+Moms Family Restaurant,"Chinese, North Indian, Fast Food",0.0,0,300
+Empty Stomach,Fast Food,3.0,95,500
+Jai Shankar Jumbo Vada Pav,Street Food,0.0,0,50
+Cheers Restaurant &Bar,"North Indian, Malwani, Chinese",3.4,49,750
+New Sangam Restaurant,North Indian,0.0,0,150
+Hiren's Point,"North Indian, Chinese",0.0,0,250
+Rasoi,"North Indian, Mughlai, Chinese",3.5,159,1300
+Ramayan Hotel,Maharashtrian,0.0,0,300
+Shyam Sunder Sweets,"Mithai, Street Food",0.0,0,200
+Chilly Kebab Parcel Kitchen,"Chinese, North Indian",0.0,0,600
+Nirmala Pawan Juice Centre,"Beverages, Fast Food",0.0,0,300
+Shalimar Hotel,North Indian,0.0,0,700
+Veg Non veg Gurudev Hotel,"North Indian, Chinese",0.0,0,400
+SB Kulfi,"Desserts, Ice Cream",0.0,0,100
+Jai Bhole Fast Food & Snacks,"Chinese, North Indian",3.2,9,250
+Superb's Kitchen,Chinese,0.0,0,450
+Dev Plaza Restaurant & Bar,North Indian,0.0,0,500
+Viceroy's Kitchen,"Chinese, Fast Food",3.2,6,550
+Gurunanik Restaurant And Dairy Farm,"Mithai, Desserts, Fast Food",0.0,0,250
+Sojhromal Food Jalsa,North Indian,0.0,0,300
+Mj Fast Foods,"South Indian, Chinese",0.0,0,150
+City Snacks Kulfi & Faluda,"Fast Food, Ice Cream",0.0,0,200
+IFC Family Restaurant,"North Indian, South Indian, Chinese",0.0,0,300
+Thakurdas Nasta House,"Chinese, Street Food",0.0,0,200
+Ymir,"American, Fast Food",0.0,0,200
+Ramesh The Cake Shop,"Bakery, Mithai",0.0,0,250
+Sai Sandwhich,Fast Food,0.0,0,100
+KC's Kiara Cafe,"Fast Food, Burger, Beverages",0.0,0,300
+Lachhu Pav Bhaji,"Chinese, Street Food",3.1,5,300
+Hotel Memsaab,"Chinese, North Indian, Malwani, Biryani",3.2,10,800
+Ninety Degrees,Bakery,0.0,0,300
+Alpha Juice & Snacks,"Fast Food, Beverages",0.0,0,100
+Foodiz Fast Food,"Fast Food, Beverages",3.1,7,350
+Sakshi Restaurant,"North Indian, Chinese",0.0,0,500
+Hotel Jawahar,"North Indian, Chinese",3.3,11,650
+Hotel Shiv Krupa,Maharashtrian,0.0,0,250
+Dolphin Club,"North Indian, South Indian, Chinese",0.0,0,1000
+Sai Fast Food,"Chinese, Momos",0.0,0,200
+The Food Garage,"Fast Food, Chinese",0.0,0,200
+Tequila N Spices,"Bar Food, North Indian, Fast Food",0.0,0,1000
